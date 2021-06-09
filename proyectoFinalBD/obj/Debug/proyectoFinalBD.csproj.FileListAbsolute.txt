@@ -1,0 +1,15 @@
+C:\Users\Lilian\source\repos\proyectoFinalBD\bin\Debug\proyectoFinalBD.exe.config
+C:\Users\Lilian\source\repos\proyectoFinalBD\bin\Debug\proyectoFinalBD.exe
+C:\Users\Lilian\source\repos\proyectoFinalBD\bin\Debug\proyectoFinalBD.pdb
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.frmDetalle.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.frmLogin.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.frmCatalogoEmpresa.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.frmMenu.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.frmReporteEmpleado.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.frmReporteEmpresa.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.Properties.Resources.resources
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.csproj.GenerateResource.cache
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.csproj.CoreCompileInputs.cache
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.exe
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.pdb
+C:\Users\Lilian\source\repos\proyectoFinalBD\obj\Debug\proyectoFinalBD.csprojAssemblyReference.cache
